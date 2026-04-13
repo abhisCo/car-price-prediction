@@ -32,3 +32,14 @@ showing how machine learning can assist in price estimation.
 ## Conclusion
 This project demonstrates a real-world application of machine learning in
 predicting car prices, which can be useful for buyers, sellers, and businesses.
+
+## 📊 Data Analysis Visualizations
+
+### 📌 Univariate Analysis
+![Univariate Analysis](Univariate_Analysis.png)
+
+### 📌 Bivariate Analysis
+![Bivariate Analysis](Bivariate_Analysis.png)
+
+### 📌 Feature Relationships
+![Feature Relationships](broader_relationships.png)
